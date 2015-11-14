@@ -1,0 +1,15 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "Image uploader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uploader",
+    "image"
+  ],
+  "author": "Equan Pr.",
+  "license": "MIT"
+}
